@@ -45,9 +45,20 @@ class Column1 extends Component {
             <div className="left">CUNY Brooklyn College - Brooklyn, NY<br/>
               TEACHER’S ASSISTANT FOR DISTINGUISHED PROFESSOR THEODORE RAPHAN Ph.D<br/>
               Appointed as a teacher’s assistant for the Computer Architecture Course.
-              
             </div>
             <div className="right">Aug 2015 – Jan 2016</div>
+          </div><br/>
+
+          <div className="date-flex">
+            <div className="left">CUNY Brooklyn College - Brooklyn, NY<br/>
+            INTERNSHIP FOR THE JEWISH LEARNING INITIATIVE ON CAMPUS (JLIC)</div>
+            <div className="right">Jan 2015–Jan 2016</div>
+          </div><br/>
+
+          <div className="date-flex">
+            <div className="left">OFFICE ASSISTANT FOR THE COUNCIL OF JEWISH ORGANIZATIONS<br/>
+            Brooklyn, NY</div>
+            <div className="right">June 2013 – Jan 2014</div>
           </div>
 
         </div>
