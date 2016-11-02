@@ -1,6 +1,7 @@
 {
   "name": "RESUME",
   "version": "0.0.1",
+  "main": "server.js",
   "private": true,
   "engines": {
   "node": "6.3.1",
