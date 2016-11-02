@@ -16,7 +16,9 @@ class Column1 extends Component {
             <div className="right">June 2016-Present</div>
           </div>
           <p>Route Me - Calculated the shortest route between multiple destinations. <br/>
-          TECH: HTML, CSS, React.js, Ruby and Ruby on Rails</p>
+          TECH: HTML, CSS, React.js, Ruby and Ruby on Rails<br/>
+        DEMO: https://gentle-waters-71149.herokuapp.com/
+          </p>
 
           <p>Weather Image API<br/>
             Allowed the user to search for weather and images using various API’s. <br/>

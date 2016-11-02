@@ -3,6 +3,10 @@
   flex-direction: row;
 }
 
+ .col2-outer-container{
+  padding-top: 1em;
+}
+
 .column1{
   order: 1;
   width: 80%;
