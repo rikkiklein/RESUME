@@ -2,6 +2,10 @@
   "name": "RESUME",
   "version": "0.0.1",
   "private": true,
+  "engines": {
+  "node": "6.3.1",
+  "npm": "3.10.3"
+},
   "devDependencies": {
     "react-scripts": "0.7.0"
   },
