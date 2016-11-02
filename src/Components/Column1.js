@@ -15,19 +15,23 @@ class Column1 extends Component {
             </div>
             <div className="right">June 2016-Present</div>
           </div>
-          <p>Route Me - Calculated the shortest route between multiple destinations. <br/>
-          TECH: HTML, CSS, React.js, Ruby and Ruby on Rails<br/>
-        DEMO: https://gentle-waters-71149.herokuapp.com/
+          <p>
+            Route Me - Calculated the shortest route between multiple destinations. <br/>
+            TECH: HTML, CSS, React.js, Ruby and Ruby on Rails<br/>
+            DEMO: <a href={"https://gentle-waters-71149.herokuapp.com/"} target="_blank"> Route Me</a>
           </p>
 
-          <p>Weather Image API<br/>
+          <p>
+            Weather Image API<br/>
             Allowed the user to search for weather and images using various API’s. <br/>
-            TECH: HTML, CSS, JavaScript
+            TECH: HTML, CSS, JavaScript <br/>
+            DEMO: <a href={"https://rikkirabz.github.io/API_PROJECT2_FE/"} target="_blank">Weather Image API</a>
           </p>
 
           <p>Math Trivia: <br/>
             Rendered a 2 player math trivia game in the browser using only the DOM. <br/>
-            TECH: HTML, CSS, JavaScript
+            TECH: HTML, CSS, JavaScript<br/>
+            DEMO: <a href={"https://rikkirabz.github.io/Math-Trivia/"} target="_blank">Math Trivia</a>
           </p>
 
           <div className="date-flex">

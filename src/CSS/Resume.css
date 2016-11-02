@@ -57,3 +57,12 @@ h3{
 p{
   line-height: 1.2em;
 }
+
+a{
+  text-decoration: none;
+  color: #ff6666;
+}
+
+a:hover{
+  text-decoration: underline;
+}
