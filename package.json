@@ -3,6 +3,7 @@
   "name": "Resume2",
   "version": "0.0.1",
   "private": true,
+  "main": "server.js",
   "engines": {
     "node": "6.3.1",
     "npm": "3.10.3"
